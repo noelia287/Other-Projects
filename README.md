@@ -36,6 +36,18 @@ This repository contains a variety of small projects in **Python, Java, HTML/CSS
 
 ---
 
+## 📸 Images
+All images used in the portfolio are in the images/ folder.
+Replace the placeholders with your own screenshots or icons for a better look.
+
+---
+
+## ✨ Notes
+Each project is self-contained in its folder.
+New projects can be added easily by creating a new folder.
+This repository is intended to showcase my skills and learning journey.
+
+---
 ## ⚡ How to Run the Projects
 
 ### For HTML/CSS/JS Projects:
@@ -64,18 +76,7 @@ java FileName
 # Example:
 javac EndevinaParaula.java
 java EndevinaParaula
-```bash
 
----
 
-## 📸 Images
-All images used in the portfolio are in the images/ folder.
-Replace the placeholders with your own screenshots or icons for a better look.
----
-## ✨ Notes
-Each project is self-contained in its folder.
-New projects can be added easily by creating a new folder.
-This repository is intended to showcase my skills and learning journey.
----
 
 
