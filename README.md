@@ -34,6 +34,10 @@ This repository contains a variety of small projects in **Python, Java, HTML/CSS
 - Implemented in **Python** and **Java**.
 - User chooses the password length.
 
+### 6. **More Projects**
+- There are additional projects included in this repository.  
+- Explore the folders to see more of my personal learning experiments and code examples.
+
 ---
 
 ## 📸 Images
