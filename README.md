@@ -18,7 +18,7 @@ This repository contains a variety of small projects in **Python, Java, HTML/CSS
 - Features filtering by type and hover animations.
 - Built with **HTML, CSS, and JavaScript**.
 
-### 3. **Word Guessing Game** (`Endevina la paraula`)
+### 3. **Word Guessing Game** (`Guess The Word`)
 - A console-based word guessing game.
 - Implemented in **Python** and **Java**.
 - The user guesses letters until the word is completed.
@@ -80,10 +80,6 @@ java FileName
 # Example:
 javac EndevinaParaula.java
 java EndevinaParaula
----
-
-*English note: This is a personal learning project. All sensitive data has been removed. The documentation is in Catalan.*
-
 
 
 
