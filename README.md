@@ -48,6 +48,10 @@ New projects can be added easily by creating a new folder.
 This repository is intended to showcase my skills and learning journey.
 
 ---
+
+*Important Note: This is a personal learning project. All sensitive data has been removed. The documentation is in Catalan.*
+
+---
 ## ⚡ How to Run the Projects
 
 ### For HTML/CSS/JS Projects:
@@ -76,6 +80,9 @@ java FileName
 # Example:
 javac EndevinaParaula.java
 java EndevinaParaula
+---
+
+*English note: This is a personal learning project. All sensitive data has been removed. The documentation is in Catalan.*
 
 
 
