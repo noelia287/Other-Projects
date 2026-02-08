@@ -64,7 +64,8 @@ java FileName
 # Example:
 javac EndevinaParaula.java
 java EndevinaParaula
-``bash
+```bash
+
 ---
 
 ## 📸 Images
